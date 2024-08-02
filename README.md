@@ -387,17 +387,14 @@
 </p>
 
 <p align="center">
-<img alt="Md. Shakil Hossain's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=roth-dev&theme=github-compact" align="center"/>
+<img alt="roth-dev Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=roth-dev&theme=github-compact" align="center"/>
 </p>
-	
-<!-- <p>
-<img alt="Md. Shakil Hossain's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=roth-dev&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
-</p> -->
+
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="1000">
 <!-- END Contribution Graph SECTION -->
 
 <!-- Start Contact Me -->
-<section>
+<!-- <section>
   <p align="center">
   <h2 align="center">Contact Me </h2>
   <h2>My Website</h2>
@@ -411,14 +408,13 @@
     <img align="left" alt="Md. Shakil Hossain | Website" width="26px" src="https://github.com/roth-dev/roth-dev/blob/main/world-wide-web.svg" />
    </a>
  <br>
-  </section>
+  </section> -->
  <!-- End Contact Me -->
- 
- 
- 
+
  <!-- Start Social Media -->
- 
- ## Social Media
+
+## Social Media
+
  <section>
  <a href="https://in.linkedin.com/in/roth-dev-b251a7228" target="_blank">
     <img align="left" alt="Roth Dev | Linkedin" width="24px" src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Linkedin.svg" />
