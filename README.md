@@ -34,7 +34,7 @@
 <!-- START Visitor Count -->
 <div align="center">
 <h2 align="centre">Visitors Count</h2>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{shakiliitju}/count.svg" /></p> 
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{roth-dev}/count.svg" /></p> 
 <br>
 </div>
 
@@ -55,7 +55,7 @@
   <h2 align="center">My Github Profile Trophy</h2>
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=shakiliitju&theme=radical&margin-w=40&margin-h=40)](https://github.com/Cyebukayire)
+[![trophy](https://github-profile-trophy.vercel.app/?username=roth-dev&theme=radical&margin-w=40&margin-h=40)](https://github.com/Cyebukayire)
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="1000">
 <!-- END My Github Profile Trophy SECTION -->
@@ -64,9 +64,9 @@
 <p align="center">
  <h2 align="center">My Github Stats</h2>
 
-| My github statistics                                                                                                                                                  | Most used languages                                                                                                                                                   | Streaks                                                                                       |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- |
-| [![Peace's github stats](https://github-readme-stats.vercel.app/api?username=shakiliitju&show_icons=true&theme=dark&hide_title=true)](https://github.com/Cyebukayire) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shakiliitju&show_icons=true&theme=dark&hide_title=true)](https://github.com/Cyebukayire) | ![shakiliitju](https://github-readme-streak-stats.herokuapp.com/?user=shakiliitju&theme=dark) |
+| My github statistics                                                                                                                                               | Most used languages                                                                                                                                                | Streaks                                                                                 |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------- |
+| [![Peace's github stats](https://github-readme-stats.vercel.app/api?username=roth-dev&show_icons=true&theme=dark&hide_title=true)](https://github.com/Cyebukayire) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roth-dev&show_icons=true&theme=dark&hide_title=true)](https://github.com/Cyebukayire) | ![roth-dev](https://github-readme-streak-stats.herokuapp.com/?user=roth-dev&theme=dark) |
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="1000">
 
@@ -91,87 +91,87 @@
         <tbody>
             <tr>
                 <td align=center>1</td>
-                <td><a href="https://github.com/shakiliitju/Jahangirnagar-University-Islami-Library-JUIL" target="_blank"><b>Jahangirnagar University Islami Library-JUIL</b></a></td>
+                <td><a href="https://github.com/roth-dev/Jahangirnagar-University-Islami-Library-JUIL" target="_blank"><b>Jahangirnagar University Islami Library-JUIL</b></a></td>
                 <td align=center>PHP, HTML, CSS, JavaScript</td>
                 <td><img alt=Stars
-                        src="https://img.shields.io/github/stars/shakiliitju/Jahangirnagar-University-Islami-Library-JUIL?style=flat-square&labelColor=343b41">
+                        src="https://img.shields.io/github/stars/roth-dev/Jahangirnagar-University-Islami-Library-JUIL?style=flat-square&labelColor=343b41">
                 </td>
                 <td><img alt=Forks
-                        src="https://img.shields.io/github/forks/shakiliitju/Jahangirnagar-University-Islami-Library-JUIL?style=flat-square&labelColor=343b41">
+                        src="https://img.shields.io/github/forks/roth-dev/Jahangirnagar-University-Islami-Library-JUIL?style=flat-square&labelColor=343b41">
                 </td>
-<!--                 <td><a href=https://github.com/shakiliitju/Jahangirnagar-University-Islami-Library-JUIL/issues target=_blank><img alt=Issues
-                            src="https://img.shields.io/github/issues/shakiliitju/Jahangirnagar-University-Islami-Library-JUIL?style=flat-square&labelColor=343b41"></a>
+<!--                 <td><a href=https://github.com/roth-dev/Jahangirnagar-University-Islami-Library-JUIL/issues target=_blank><img alt=Issues
+                            src="https://img.shields.io/github/issues/roth-dev/Jahangirnagar-University-Islami-Library-JUIL?style=flat-square&labelColor=343b41"></a>
                 </td> -->
-                <td><a href=https://github.com/shakiliitju/Jahangirnagar-University-Islami-Library-JUIL/pulls target=_blank><img alt="Pull Requests"
-                            src="https://img.shields.io/github/issues-pr/shakiliitju/Jahangirnagar-University-Islami-Library-JUIL?style=flat-square&labelColor=343b41"></a>
+                <td><a href=https://github.com/roth-dev/Jahangirnagar-University-Islami-Library-JUIL/pulls target=_blank><img alt="Pull Requests"
+                            src="https://img.shields.io/github/issues-pr/roth-dev/Jahangirnagar-University-Islami-Library-JUIL?style=flat-square&labelColor=343b41"></a>
                 </td> 
             </tr>
             <tr>
                 <td align=center>2</td>
-                <td><a href="https://github.com/shakiliitju/JU-Medical-Management-System" target="_blank"><b>JU Medical Management System</b></a></td>
+                <td><a href="https://github.com/roth-dev/JU-Medical-Management-System" target="_blank"><b>JU Medical Management System</b></a></td>
                 <td align=center>PHP, HTML, CSS, JavaScript</td>
                 <td><img alt=Stars
-                        src="https://img.shields.io/github/stars/shakiliitju/JU-Medical-Management-System?style=flat-square&labelColor=343b41">
+                        src="https://img.shields.io/github/stars/roth-dev/JU-Medical-Management-System?style=flat-square&labelColor=343b41">
                 </td>
                 <td><img alt=Forks
-                        src="https://img.shields.io/github/forks/shakiliitju/JU-Medical-Management-System?style=flat-square&labelColor=343b41">
+                        src="https://img.shields.io/github/forks/roth-dev/JU-Medical-Management-System?style=flat-square&labelColor=343b41">
                 </td>
 <!--                 <td><a href=https://github.com/mx-space/core/issues target=_blank><img alt=Issues
-                            src="https://img.shields.io/github/issues/shakiliitju/JU-Medical-Management-System?style=flat-square&labelColor=343b41"></a>
+                            src="https://img.shields.io/github/issues/roth-dev/JU-Medical-Management-System?style=flat-square&labelColor=343b41"></a>
                 </td>   -->
                 <td><a href=https://github.com/mx-space/core/pulls target=_blank><img alt="Pull Requests"
-                            src="https://img.shields.io/github/issues-pr/shakiliitju/JU-Medical-Management-System?style=flat-square&labelColor=343b41"></a>
+                            src="https://img.shields.io/github/issues-pr/roth-dev/JU-Medical-Management-System?style=flat-square&labelColor=343b41"></a>
                 </td> 
             </tr>
             <tr>
                 <td align=center>3</td>
-                <td><a href="https://github.com/shakiliitju/Process-Scheduling-Simulator" target="_blank"><b>Process Scheduling Simulator</b></a></td>
+                <td><a href="https://github.com/roth-dev/Process-Scheduling-Simulator" target="_blank"><b>Process Scheduling Simulator</b></a></td>
                 <td align=center>HTML, CSS, JavaScript</td>
                 <td><img alt=Stars
-                        src="https://img.shields.io/github/stars/shakiliitju/Process-Scheduling-Simulator?style=flat-square&labelColor=343b41">
+                        src="https://img.shields.io/github/stars/roth-dev/Process-Scheduling-Simulator?style=flat-square&labelColor=343b41">
                 </td>
                 <td><img alt=Forks
-                        src="https://img.shields.io/github/forks/shakiliitju/Process-Scheduling-Simulator?style=flat-square&labelColor=343b41">
+                        src="https://img.shields.io/github/forks/roth-dev/Process-Scheduling-Simulator?style=flat-square&labelColor=343b41">
                 </td>
-<!--                 <td><a href=https://github.com/shakiliitju/Process-Scheduling-Simulator/issues target=_blank><img alt=Issues
-                            src="https://img.shields.io/github/issues/shakiliitju/Process-Scheduling-Simulator?style=flat-square&labelColor=343b41"></a>
+<!--                 <td><a href=https://github.com/roth-dev/Process-Scheduling-Simulator/issues target=_blank><img alt=Issues
+                            src="https://img.shields.io/github/issues/roth-dev/Process-Scheduling-Simulator?style=flat-square&labelColor=343b41"></a>
                 </td>   -->
-                <td><a href=https://github.com/shakiliitju/Process-Scheduling-Simulator/pulls target=_blank><img alt="Pull Requests"
-                            src="https://img.shields.io/github/issues-pr/shakiliitju/Process-Scheduling-Simulator?style=flat-square&labelColor=343b41"></a>
+                <td><a href=https://github.com/roth-dev/Process-Scheduling-Simulator/pulls target=_blank><img alt="Pull Requests"
+                            src="https://img.shields.io/github/issues-pr/roth-dev/Process-Scheduling-Simulator?style=flat-square&labelColor=343b41"></a>
                 </td> 
             </tr>
             <tr>
                 <td align=center>4</td>
-                <td><a href="https://github.com/shakiliitju/Student-Management-System-Using-Nodejs" target="_blank"><b>Student Management System Using Node JS</b></a></td>
+                <td><a href="https://github.com/roth-dev/Student-Management-System-Using-Nodejs" target="_blank"><b>Student Management System Using Node JS</b></a></td>
                 <td align=center>Node Js, HTML, CSS, JavaScript</td>
                 <td><img alt=Stars
-                        src="https://img.shields.io/github/stars/shakiliitju/Student-Management-System-Using-Nodejs?style=flat-square&labelColor=343b41">
+                        src="https://img.shields.io/github/stars/roth-dev/Student-Management-System-Using-Nodejs?style=flat-square&labelColor=343b41">
                 </td>
                 <td><img alt=Forks
-                        src="https://img.shields.io/github/forks/shakiliitju/Student-Management-System-Using-Nodejs?style=flat-square&labelColor=343b41">
+                        src="https://img.shields.io/github/forks/roth-dev/Student-Management-System-Using-Nodejs?style=flat-square&labelColor=343b41">
                 </td>
-<!--                 <td><a href=https://github.com/shakiliitju/Student-Management-System-Using-Nodejs/issues target=_blank><img alt=Issues
-                            src="https://img.shields.io/github/issues/shakiliitju/Student-Management-System-Using-Nodejs?style=flat-square&labelColor=343b41"></a>
+<!--                 <td><a href=https://github.com/roth-dev/Student-Management-System-Using-Nodejs/issues target=_blank><img alt=Issues
+                            src="https://img.shields.io/github/issues/roth-dev/Student-Management-System-Using-Nodejs?style=flat-square&labelColor=343b41"></a>
                 </td>   -->
-                <td><a href=https://github.com/shakiliitju/Student-Management-System-Using-Nodejs/pulls target=_blank><img alt="Pull Requests"
-                            src="https://img.shields.io/github/issues-pr/shakiliitju/Student-Management-System-Using-Nodejs?style=flat-square&labelColor=343b41"></a>
+                <td><a href=https://github.com/roth-dev/Student-Management-System-Using-Nodejs/pulls target=_blank><img alt="Pull Requests"
+                            src="https://img.shields.io/github/issues-pr/roth-dev/Student-Management-System-Using-Nodejs?style=flat-square&labelColor=343b41"></a>
                 </td> 
             </tr>
 		 <tr>
                 <td align=center>5</td>
-                <td><a href="https://github.com/shakiliitju/Dormitory-Management-System" target="_blank"><b>Dormitory Management System</b></a></td>
+                <td><a href="https://github.com/roth-dev/Dormitory-Management-System" target="_blank"><b>Dormitory Management System</b></a></td>
                 <td align=center>PHP, HTML, CSS, JavaScript</td>
                 <td><img alt=Stars
-                        src="https://img.shields.io/github/stars/shakiliitju/Dormitory-Management-System?style=flat-square&labelColor=343b41">
+                        src="https://img.shields.io/github/stars/roth-dev/Dormitory-Management-System?style=flat-square&labelColor=343b41">
                 </td>
                 <td><img alt=Forks
-                        src="https://img.shields.io/github/forks/shakiliitju/Dormitory-Management-System?style=flat-square&labelColor=343b41">
+                        src="https://img.shields.io/github/forks/roth-dev/Dormitory-Management-System?style=flat-square&labelColor=343b41">
                 </td>
 <!--                 <td><a href=https://github.com/mx-space/core/issues target=_blank><img alt=Issues
-                            src="https://img.shields.io/github/issues/shakiliitju/Dormitory-Management-System?style=flat-square&labelColor=343b41"></a>
+                            src="https://img.shields.io/github/issues/roth-dev/Dormitory-Management-System?style=flat-square&labelColor=343b41"></a>
                 </td>   -->
                 <td><a href=https://github.com/mx-space/core/pulls target=_blank><img alt="Pull Requests"
-                            src="https://img.shields.io/github/issues-pr/shakiliitju/Dormitory-Management-System?style=flat-square&labelColor=343b41"></a>
+                            src="https://img.shields.io/github/issues-pr/roth-dev/Dormitory-Management-System?style=flat-square&labelColor=343b41"></a>
                 </td> 
             </tr>
         </tbody>
@@ -187,10 +187,10 @@
  
 </p>
 <p align="center">
-<!--   <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/shakiliitju/competition/"; /> -->
-  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/shakiliitju/dataset/"; />
-  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/shakiliitju/notebook/"; />
-  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/shakiliitju/discussion/"; />
+<!--   <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/roth-dev/competition/"; /> -->
+  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/roth-dev/dataset/"; />
+  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/roth-dev/notebook/"; />
+  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/roth-dev/discussion/"; />
 </p>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="1000">
@@ -203,7 +203,7 @@
         <h2 align="center">I worked on last week  
 <!--             <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width=30>  -->
         </h2>
-         <img src="https://github-readme-stats.vercel.app/api/wakatime?username=shakiliitju&range=last_7_days&theme=highcontrast&hide_border=false&layout=" alt="Wakatime Stats" width="480" />
+         <img src="https://github-readme-stats.vercel.app/api/wakatime?username=roth-dev&range=last_7_days&theme=highcontrast&hide_border=false&layout=" alt="Wakatime Stats" width="480" />
         <a href="https://wakatime.com/@b10ddb7f-1a29-4243-9642-69972f83f35f">
              <img src="https://wakatime.com/badge/user/b10ddb7f-1a29-4243-9642-69972f83f35f.svg" alt="Total time coded since April 19 2023" />
         </a>
@@ -538,15 +538,15 @@
  <h2 align="center">Contribution Graph</h2>
 	
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shakiliitju&theme=monokai" align="center" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=roth-dev&theme=monokai" align="center" />
 </p>
 
 <p align="center">
-<img alt="Md. Shakil Hossain's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=shakiliitju&theme=github-compact" align="center"/>
+<img alt="Md. Shakil Hossain's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=roth-dev&theme=github-compact" align="center"/>
 </p>
 	
 <!-- <p>
-<img alt="Md. Shakil Hossain's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=shakiliitju&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
+<img alt="Md. Shakil Hossain's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=roth-dev&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
 </p> -->
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="1000">
 <!-- END Contribution Graph SECTION -->
@@ -556,14 +556,14 @@
   <p align="center">
   <h2 align="center">Contact Me </h2>
   <h2>My Website</h2>
-  <a href="https://sites.google.com/view/shakiliitju" target="_blank">
-    <img align="left" alt="Md. Shakil Hossain | Website" width="26px" src="https://github.com/shakiliitju/shakiliitju/blob/main/world-wide-web.svg" />
+  <a href="https://sites.google.com/view/roth-dev" target="_blank">
+    <img align="left" alt="Md. Shakil Hossain | Website" width="26px" src="https://github.com/roth-dev/roth-dev/blob/main/world-wide-web.svg" />
    </a>
-   <a href="https://shakiliitju.github.io/portfolio/" target="_blank">
-    <img align="left" alt="Md. Shakil Hossain | Website" width="26px" src="https://github.com/shakiliitju/shakiliitju/blob/main/world-wide-web.svg" />
+   <a href="https://roth-dev.github.io/portfolio/" target="_blank">
+    <img align="left" alt="Md. Shakil Hossain | Website" width="26px" src="https://github.com/roth-dev/roth-dev/blob/main/world-wide-web.svg" />
    </a>
-   <a href="https://shakiliitju.blogspot.com/" target="_blank">
-    <img align="left" alt="Md. Shakil Hossain | Website" width="26px" src="https://github.com/shakiliitju/shakiliitju/blob/main/world-wide-web.svg" />
+   <a href="https://roth-dev.blogspot.com/" target="_blank">
+    <img align="left" alt="Md. Shakil Hossain | Website" width="26px" src="https://github.com/roth-dev/roth-dev/blob/main/world-wide-web.svg" />
    </a>
  <br>
   </section>
@@ -579,7 +579,7 @@
     <img align="left" alt="Roth Dev | Linkedin" width="24px" src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Linkedin.svg" />
    </a>
    <a href="https://www.facebook.com/roth.dev.ops" target="_blank">
-    <img align="left" alt="រ័ត្ន | Facebook" width="26px" src="https://github.com/shakiliitju/shakiliitju/blob/main/facebook.svg" />
+    <img align="left" alt="រ័ត្ន | Facebook" width="26px" src="https://github.com/roth-dev/roth-dev/blob/main/facebook.svg" />
  </a>
    <a href="https://x.com/rothdevops" target="_blank">
      <img align="left" alt="roth | Twitter" width="26px" src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Twitter.svg" />
@@ -588,7 +588,7 @@
      <img align="left" alt="roth | Instagram" width="24px" src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Instagram.svg" />
    </a>
    <a href="https://www.youtube.com/channel/UC6svZ0CR15A9toDxnsjGOxg" target="_blank">
-    <img align="left" alt="Roth Dev | Youtube" width="26px" src="https://github.com/shakiliitju/shakiliitju/blob/main/youtube.svg" />
+    <img align="left" alt="Roth Dev | Youtube" width="26px" src="https://github.com/roth-dev/roth-dev/blob/main/youtube.svg" />
  </a> 
  <br>
  </section>
