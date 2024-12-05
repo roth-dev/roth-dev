@@ -4,13 +4,13 @@
  </head>
   <body>
     
-<img width=100% src="welcome.svg" color="00bfbf">
+<!-- <img width=100% src="welcome.svg" color="00bfbf">
 
 <div align="center">
 	
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi👋there.&size=35&height=70&width=800&font=Roboto)](https://git.io/typing-svg)
 		  
-</div>
+</div> -->
 	  
 <!-- Start My Basic Information -->
 <!-- <section>
@@ -34,14 +34,14 @@
 <!-- End Visitor Count -->
 
 <!-- START My Github Profile Trophy SECTION -->
-<p align="center">
-  <img width="100" src="https://user-images.githubusercontent.com/6661165/91657958-61b4fd00-eb00-11ea-9def-dc7ef5367e34.png" />  
+<!-- <p align="center">
+  <img width="100" src="https://user-images.githubusercontent.com/6661165/91657958-61b4fd00-eb00-11ea-9def-dc7ef5367e34.png" />
   <h2 align="center">My Github Profile Trophy</h2>
 </p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=roth-dev&theme=radical&margin-w=40&margin-h=40)](https://github.com/Cyebukayire)
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="1000">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="1000"> -->
 <!-- END My Github Profile Trophy SECTION -->
 
 <!-- START NEW SECTION -->
