@@ -360,9 +360,9 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=roth-dev&theme=monokai" align="center" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
 <img alt="roth-dev Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=roth-dev&theme=github-compact" align="center"/>
-</p>
+</p> -->
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="1000">
 <!-- END Contribution Graph SECTION -->
