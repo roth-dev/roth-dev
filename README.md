@@ -6,7 +6,7 @@
     
 <img width=100% src="welcome.svg" color="00bfbf">
 
-<div align="center">
+ <!-- <div align="center">
 	
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi👋there.&size=35&height=70&width=800&font=Roboto)](https://git.io/typing-svg)
 		  
@@ -34,7 +34,7 @@
 <!-- End Visitor Count -->
 
 <!-- START My Github Profile Trophy SECTION -->
-<p align="center">
+<!-- <p align="center">
   <img width="100" src="https://user-images.githubusercontent.com/6661165/91657958-61b4fd00-eb00-11ea-9def-dc7ef5367e34.png" />  
   <h2 align="center">My Github Profile Trophy</h2>
 </p>
@@ -56,7 +56,7 @@
 
 <!-- &layout=compact -->
 <!-- START My favorite tools -->
-<h2 align="center">🛠️ My favorite tools</h2>
+<!-- <h2 align="center">🛠️ My favorite tools</h2>
 
 ### 👨‍💻 Programming languages
 
