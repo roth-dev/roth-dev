@@ -55,7 +55,7 @@
 <!-- START NEW SECTION -->
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Cyebukayire}/count.svg" /></p> 
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{roth-dev}/count.svg" /></p> 
 <br></div>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="1000">
