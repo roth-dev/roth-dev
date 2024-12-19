@@ -52,6 +52,12 @@
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------- |
 | [![Peace's github stats](https://github-readme-stats.vercel.app/api?username=roth-dev&show_icons=true&theme=dark&hide_title=true)](https://github.com/roth-dev) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roth-dev&show_icons=true&theme=dark&hide_title=true)](https://github.com/roth-dev) | ![roth-dev](https://github-readme-streak-stats.herokuapp.com/?user=roth-dev&theme=dark) |
 
+<!-- START NEW SECTION -->
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Cyebukayire}/count.svg" /></p> 
+<br></div>
+
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="1000">
 
 <!-- &layout=compact -->
